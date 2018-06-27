@@ -1,0 +1,6 @@
+FirstName,LastName,SamAccountName,UserPrincipalName,IPPhone,Notes,Password
+darley-test01,Resident,darley-res01,darley-res01@royalfreemasons.org.au,6701,SYSTEMACCOUNT,qwertyuiop
+darley-test02,Resident,darley-res02,darley-res02@royalfreemasons.org.au,6702,SYSTEMACCOUNT,qwertyuiop
+darley-test03,Resident,darley-res03,darley-res03@royalfreemasons.org.au,6703,SYSTEMACCOUNT,qwertyuiop
+darley-test04,Resident,darley-res04,darley-res04@royalfreemasons.org.au,6704,SYSTEMACCOUNT,qwertyuiop
+darley-test05,Resident,darley-res05,darley-res05@royalfreemasons.org.au,6705,SYSTEMACCOUNT,qwertyuiop
